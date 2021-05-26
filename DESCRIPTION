@@ -1,0 +1,12 @@
+Package: hsls
+Type: Package
+Title: HSLS Data Package
+Version: 0.1.0
+Authors@R: person("Amberly", "Dziesinski", email = "amberly.dziesinski@vanderbilt.edu", role = c("aut", "cre"))
+Description: This package includes a cleaned version of the HSLS data and a help file for how to use the data. Source data from: https://nces.ed.gov/OnlineCodebook
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 2.10)
+RoxygenNote: 7.1.1
